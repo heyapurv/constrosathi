@@ -166,7 +166,7 @@ export default function LandingPage() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-gray-700 text-center text-sm">
-            © {new Date().getFullYear()} ConstructCo. All rights reserved.
+            © {new Date().getFullYear()} Constro Sathi All rights reserved.
           </div>
         </div>
       </footer>
